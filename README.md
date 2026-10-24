@@ -1,7 +1,7 @@
-## Ejercicio #1: Ciclo Para
+# Ejercicio #1: Ciclo Para
 
 
-# Ejercicio de control de ventas
+## Ejercicio de control de ventas
 
 Una tienda de tecnologia desea llevar uun control de ventas de sus
 productos. El día de hoy lanzo una promoción en que sus tres
